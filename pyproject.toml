@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "WombatPyKIPR"
-version = "1.0.0"
+version = "1.0.1"
 authors = [{ name = "Grayson Elias", email = "git@graysone.com" }]
 description = "Provides the KIPR import for python on the wombat"
 readme = "README.md"
